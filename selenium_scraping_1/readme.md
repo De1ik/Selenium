@@ -1,0 +1,1 @@
+In this order I had to collect statistics information from each fight and represent it in json and csv format
